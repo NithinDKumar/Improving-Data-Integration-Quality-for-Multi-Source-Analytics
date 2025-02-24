@@ -1,0 +1,151 @@
+Transaction_ID,Customer_ID,Product_ID,Sales_Amount,Date,Customer_Name,Email,Phone Number,City,Product_Name,Category,Stock_Level,Price
+2531691,9157,16,1500.0,1928-02-06,Unknown,no-email@example.com,,Unknown City,Wooden Stool 2018,Home,247.0,149.0
+2531691,9157,16,1500.0,1928-02-06,Unknown,no-email@example.com,,Unknown City,Duck Face,Electronics,143.0,131.0
+2531691,9157,16,1500.0,1928-02-06,Unknown,no-email@example.com,,Unknown City,Vintage 1960s Charm Bracelet with 14k Yellow Gold Charm,Grocery,248.0,554.0
+432431,3765,44,1851.0,2022-07-12,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+3699307,4808,21,529.0,1943-03-08,Unknown,no-email@example.com,,Unknown City,Bella Cucina Round Deep Dish Pizza Pan,Home,116.0,815.0
+3699307,4808,21,529.0,1943-03-08,Unknown,no-email@example.com,,Unknown City,LONDON 925 GOLD 300 SILVER DIVING HELMET,Grocery,160.0,257.0
+1215060,1253,20,772.0,1927-12-19,Unknown,no-email@example.com,,Unknown City,Subaru,Electronics,193.0,439.0
+382250,2064,49,1513.0,1990-05-23,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+536212,2004,44,567.0,1982-10-10,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+12944050,1017,25,1942.0,2018-11-13,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+461576,1805,6,2000.0,1970-01-01,Unknown,no-email@example.com,,Unknown City,Marbled mulled bacon,Home,117.0,108.0
+461576,1805,6,2000.0,1970-01-01,Unknown,no-email@example.com,,Unknown City,Samsung 38.6-inch 4K QLED Q70A QLED TV,Electronics,15.0,499.0
+461576,1805,6,2000.0,1970-01-01,Unknown,no-email@example.com,,Unknown City,Nike Air Jordan Mens 12 Black/White-Varsity Red-Metallic Silver-Varsity Red-Metallic Silver-White 872003-001-Size 9 US Men's Running Shoes,Apparel,45.0,139.0
+461576,1805,6,2000.0,1970-01-01,Unknown,no-email@example.com,,Unknown City,Full Hanger 1000mm,Electronics,16.0,799.0
+665563,6304,27,731.0,1985-11-14,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+85367426,4598,1,1066.0,1987-05-07,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+343453,7372,4,1935.0,2021-04-02,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+10426853,1096,20,1600.0,2023-01-04,Unknown,no-email@example.com,,Unknown City,Subaru,Electronics,193.0,439.0
+407065,1755,48,954.0,1961-05-19,Unknown,no-email@example.com,,Unknown City,Cantu Hair Relaxer Kit for Wavy Hair,Grocery,35.0,219.0
+407065,1755,48,954.0,1961-05-19,Unknown,no-email@example.com,,Unknown City,Burgundy lace eyelet with bow headband,Home,171.0,224.0
+10044300,100000,37,651.0,1970-01-16,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+42771866,2688,19,570.0,1990-12-01,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+1129348,5493,33,2000.0,2022-05-18,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+10168475,5044,27,1300.0,1999-11-26,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+239606,1690,19,1069.0,1973-06-16,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+2108710,7136,21,1019.0,1987-06-05,Unknown,no-email@example.com,,Unknown City,Bella Cucina Round Deep Dish Pizza Pan,Home,116.0,815.0
+2108710,7136,21,1019.0,1987-06-05,Unknown,no-email@example.com,,Unknown City,LONDON 925 GOLD 300 SILVER DIVING HELMET,Grocery,160.0,257.0
+355987,1103,35,1217.0,2021-12-06,Unknown,no-email@example.com,,Unknown City,Stagecoach Boot,Apparel,10.0,640.0
+3595388,3701,10,859.0,1960-01-11,Unknown,no-email@example.com,,Unknown City,Natural Baby Powder,Home,27.0,395.0
+3595388,3701,10,859.0,1960-01-11,Unknown,no-email@example.com,,Unknown City,Fruit,Grocery,466.0,128.0
+3595388,3701,10,859.0,1960-01-11,Unknown,no-email@example.com,,Unknown City,KitchenAid 5-Quart Tilt-Head Stand Mixer,Electronics,43.0,999.0
+3595388,3701,10,859.0,1960-01-11,Unknown,no-email@example.com,,Unknown City,18ct white gold diamond eternity ring,Apparel,174.0,600.0
+15997503,26303,42,1368.0,1946-09-13,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+662801,2493,46,920.0,1944-03-29,Unknown,no-email@example.com,,Unknown City,Black 6 Inch Sandal Heels Booties,Grocery,210.0,322.0
+26770955,1107,18,1378.0,1958-06-07,Unknown,no-email@example.com,,Unknown City,Chocolate chip donut mix,Home,25.0,199.0
+26770955,1107,18,1378.0,1958-06-07,Unknown,no-email@example.com,,Unknown City,Mongolian Beef,Home,180.0,250.0
+12351480,14974,22,646.0,1970-01-16,Unknown,no-email@example.com,,Unknown City,Red Lobster Seafood Salad,Grocery,38.0,299.0
+165216,5022,7,1782.0,2021-08-11,Unknown,no-email@example.com,,Unknown City,SkyDive,Apparel,157.0,129.0
+165216,5022,7,1782.0,2021-08-11,Unknown,no-email@example.com,,Unknown City,FIFA 16,Electronics,16.0,362.0
+165216,5022,7,1782.0,2021-08-11,Unknown,no-email@example.com,,Unknown City,Mars Bars,Grocery,105.0,258.0
+8705012,2896,17,1195.0,2022-01-02,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+12058197,39770,6,1229.0,1977-01-24,Unknown,no-email@example.com,,Unknown City,Marbled mulled bacon,Home,117.0,108.0
+12058197,39770,6,1229.0,1977-01-24,Unknown,no-email@example.com,,Unknown City,Samsung 38.6-inch 4K QLED Q70A QLED TV,Electronics,15.0,499.0
+12058197,39770,6,1229.0,1977-01-24,Unknown,no-email@example.com,,Unknown City,Nike Air Jordan Mens 12 Black/White-Varsity Red-Metallic Silver-Varsity Red-Metallic Silver-White 872003-001-Size 9 US Men's Running Shoes,Apparel,45.0,139.0
+12058197,39770,6,1229.0,1977-01-24,Unknown,no-email@example.com,,Unknown City,Full Hanger 1000mm,Electronics,16.0,799.0
+23274036,1540,32,1186.0,1997-04-23,Unknown,no-email@example.com,,Unknown City,Fujifilm X-T3 Mirrorless Digital Camera Body,Electronics,103.0,479.0
+429471,3827,29,1556.0,1998-12-24,Unknown,no-email@example.com,,Unknown City,Tony Chocolonely chocolate bar with almonds (70% cacao),Grocery,121.0,419.0
+6411604,1647,23,846.0,2022-09-25,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+39020760,84934,10,509.0,1983-06-19,Unknown,no-email@example.com,,Unknown City,Natural Baby Powder,Home,27.0,395.0
+39020760,84934,10,509.0,1983-06-19,Unknown,no-email@example.com,,Unknown City,Fruit,Grocery,466.0,128.0
+39020760,84934,10,509.0,1983-06-19,Unknown,no-email@example.com,,Unknown City,KitchenAid 5-Quart Tilt-Head Stand Mixer,Electronics,43.0,999.0
+39020760,84934,10,509.0,1983-06-19,Unknown,no-email@example.com,,Unknown City,18ct white gold diamond eternity ring,Apparel,174.0,600.0
+114419,1527,9,1940.0,1906-12-28,Unknown,no-email@example.com,,Unknown City,Adidas NEO Cloudfoam Pure Run Shoes,Apparel,162.0,139.0
+114419,1527,9,1940.0,1906-12-28,Unknown,no-email@example.com,,Unknown City,Safety Blue Mug,Electronics,21.0,134.0
+10039525,2421,23,1012.0,2021-11-04,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+6240282,1161,16,1536.0,1926-04-19,Unknown,no-email@example.com,,Unknown City,Wooden Stool 2018,Home,247.0,149.0
+6240282,1161,16,1536.0,1926-04-19,Unknown,no-email@example.com,,Unknown City,Duck Face,Electronics,143.0,131.0
+6240282,1161,16,1536.0,1926-04-19,Unknown,no-email@example.com,,Unknown City,Vintage 1960s Charm Bracelet with 14k Yellow Gold Charm,Grocery,248.0,554.0
+3763556,2472,22,697.0,1995-01-10,Unknown,no-email@example.com,,Unknown City,Red Lobster Seafood Salad,Grocery,38.0,299.0
+1301799,4533,14,2000.0,1961-05-01,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+2412588,30173,17,535.0,2021-11-08,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+5405869,2505,46,1023.0,1978-12-09,Unknown,no-email@example.com,,Unknown City,Black 6 Inch Sandal Heels Booties,Grocery,210.0,322.0
+33372474,11844,24,2000.0,2021-05-03,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+1081445,19762,36,681.0,2023-01-08,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+654327,2102,42,2000.0,1976-06-03,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+4432979,4360,14,1261.0,1936-03-01,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+1341773,4805,20,849.0,1984-05-21,Unknown,no-email@example.com,,Unknown City,Subaru,Electronics,193.0,439.0
+142534,1003,23,1080.0,2019-08-02,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+5708389,1990,7,2000.0,1970-01-15,Unknown,no-email@example.com,,Unknown City,SkyDive,Apparel,157.0,129.0
+5708389,1990,7,2000.0,1970-01-15,Unknown,no-email@example.com,,Unknown City,FIFA 16,Electronics,16.0,362.0
+5708389,1990,7,2000.0,1970-01-15,Unknown,no-email@example.com,,Unknown City,Mars Bars,Grocery,105.0,258.0
+13296613,1267,15,1169.0,2022-09-17,Unknown,no-email@example.com,,Unknown City,Cross Stitch,Home,119.0,200.0
+1115089,1661,14,522.0,1949-10-16,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+2065215,2032,25,1231.0,2021-12-27,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+125572,1264,35,1522.0,2022-01-28,Unknown,no-email@example.com,,Unknown City,Stagecoach Boot,Apparel,10.0,640.0
+1185907,1038,12,2000.0,1989-08-14,Unknown,no-email@example.com,,Unknown City,Plain 24oz Classic Glass Bottles - 6 Pack,Grocery,125.0,109.0
+1802636,11134,10,907.0,1979-06-15,Unknown,no-email@example.com,,Unknown City,Natural Baby Powder,Home,27.0,395.0
+1802636,11134,10,907.0,1979-06-15,Unknown,no-email@example.com,,Unknown City,Fruit,Grocery,466.0,128.0
+1802636,11134,10,907.0,1979-06-15,Unknown,no-email@example.com,,Unknown City,KitchenAid 5-Quart Tilt-Head Stand Mixer,Electronics,43.0,999.0
+1802636,11134,10,907.0,1979-06-15,Unknown,no-email@example.com,,Unknown City,18ct white gold diamond eternity ring,Apparel,174.0,600.0
+1763001,1859,34,995.0,1999-11-27,Unknown,no-email@example.com,,Unknown City,gloss black padded bike shorts,Apparel,200.0,499.0
+392855,2077,47,1861.0,2022-07-04,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+122001,3620,50,1843.0,2022-03-18,Unknown,no-email@example.com,,Unknown City,Earrings,Apparel,12.0,984.0
+122001,3620,50,1843.0,2022-03-18,Unknown,no-email@example.com,,Unknown City,Bordeaux Rhone Blend,Grocery,139.0,490.0
+122001,3620,50,1843.0,2022-03-18,Unknown,no-email@example.com,,Unknown City,Cotton Trousers,Grocery,35.0,171.0
+101751,1030,50,759.0,1966-12-01,Unknown,no-email@example.com,,Unknown City,Earrings,Apparel,12.0,984.0
+101751,1030,50,759.0,1966-12-01,Unknown,no-email@example.com,,Unknown City,Bordeaux Rhone Blend,Grocery,139.0,490.0
+101751,1030,50,759.0,1966-12-01,Unknown,no-email@example.com,,Unknown City,Cotton Trousers,Grocery,35.0,171.0
+31294150,1938,15,1104.0,1970-01-17,Unknown,no-email@example.com,,Unknown City,Cross Stitch,Home,119.0,200.0
+1002141,1454,16,1548.0,1999-07-28,Unknown,no-email@example.com,,Unknown City,Wooden Stool 2018,Home,247.0,149.0
+1002141,1454,16,1548.0,1999-07-28,Unknown,no-email@example.com,,Unknown City,Duck Face,Electronics,143.0,131.0
+1002141,1454,16,1548.0,1999-07-28,Unknown,no-email@example.com,,Unknown City,Vintage 1960s Charm Bracelet with 14k Yellow Gold Charm,Grocery,248.0,554.0
+130557,2311,36,919.0,1944-08-25,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+1253083,4498,27,585.0,2022-05-05,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+13683467,2518,22,1000.0,1998-10-04,Unknown,no-email@example.com,,Unknown City,Red Lobster Seafood Salad,Grocery,38.0,299.0
+262418,2559,9,614.0,1939-07-10,Unknown,no-email@example.com,,Unknown City,Adidas NEO Cloudfoam Pure Run Shoes,Apparel,162.0,139.0
+262418,2559,9,614.0,1939-07-10,Unknown,no-email@example.com,,Unknown City,Safety Blue Mug,Electronics,21.0,134.0
+3277292,2693,27,1735.0,2020-12-10,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+793035,1093,25,2000.0,2020-12-25,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+10312942,1036,49,2000.0,1948-04-06,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+194438,6657,19,1422.0,2021-06-08,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+1425377,2625,7,1655.0,2020-12-11,Unknown,no-email@example.com,,Unknown City,SkyDive,Apparel,157.0,129.0
+1425377,2625,7,1655.0,2020-12-11,Unknown,no-email@example.com,,Unknown City,FIFA 16,Electronics,16.0,362.0
+1425377,2625,7,1655.0,2020-12-11,Unknown,no-email@example.com,,Unknown City,Mars Bars,Grocery,105.0,258.0
+101311,2675,30,1758.0,2020-01-14,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+271222,2173,6,1243.0,1969-04-04,Mrs. Vieira,no-email@example.com,(404) 404-1921,New York,Marbled mulled bacon,Home,117.0,108.0
+271222,2173,6,1243.0,1969-04-04,Mrs. Vieira,no-email@example.com,(404) 404-1921,New York,Samsung 38.6-inch 4K QLED Q70A QLED TV,Electronics,15.0,499.0
+271222,2173,6,1243.0,1969-04-04,Mrs. Vieira,no-email@example.com,(404) 404-1921,New York,Nike Air Jordan Mens 12 Black/White-Varsity Red-Metallic Silver-Varsity Red-Metallic Silver-White 872003-001-Size 9 US Men's Running Shoes,Apparel,45.0,139.0
+271222,2173,6,1243.0,1969-04-04,Mrs. Vieira,no-email@example.com,(404) 404-1921,New York,Full Hanger 1000mm,Electronics,16.0,799.0
+7519781,12260,17,1435.0,1986-08-14,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+7458754,1173,46,1494.0,1929-02-24,Unknown,no-email@example.com,,Unknown City,Black 6 Inch Sandal Heels Booties,Grocery,210.0,322.0
+157733,27745,31,2000.0,1956-04-29,Unknown,no-email@example.com,,Unknown City,Tailored Drum Table,Grocery,126.0,220.0
+117412,4205,24,1091.0,2021-11-01,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+737383,2401,38,648.0,2022-04-14,Unknown,no-email@example.com,,Unknown City,Zedd Cosmic Gate Alive 2015 2015 08 28 18 32,Electronics,139.0,134.0
+5345984,5692,31,903.0,1970-01-01,Unknown,no-email@example.com,,Unknown City,Tailored Drum Table,Grocery,126.0,220.0
+661767,1466,10,1324.0,1972-10-16,Unknown,no-email@example.com,,Unknown City,Natural Baby Powder,Home,27.0,395.0
+661767,1466,10,1324.0,1972-10-16,Unknown,no-email@example.com,,Unknown City,Fruit,Grocery,466.0,128.0
+661767,1466,10,1324.0,1972-10-16,Unknown,no-email@example.com,,Unknown City,KitchenAid 5-Quart Tilt-Head Stand Mixer,Electronics,43.0,999.0
+661767,1466,10,1324.0,1972-10-16,Unknown,no-email@example.com,,Unknown City,18ct white gold diamond eternity ring,Apparel,174.0,600.0
+2253491,9450,34,1268.0,1999-02-06,Unknown,no-email@example.com,,Unknown City,gloss black padded bike shorts,Apparel,200.0,499.0
+10246036,2331,50,1500.0,1970-01-16,Unknown,no-email@example.com,,Unknown City,Earrings,Apparel,12.0,984.0
+10246036,2331,50,1500.0,1970-01-16,Unknown,no-email@example.com,,Unknown City,Bordeaux Rhone Blend,Grocery,139.0,490.0
+10246036,2331,50,1500.0,1970-01-16,Unknown,no-email@example.com,,Unknown City,Cotton Trousers,Grocery,35.0,171.0
+151427,6088,44,2000.0,2021-02-15,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+10000642,1010,45,1799.0,2021-07-03,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+192743,2858,12,510.0,1949-03-02,Unknown,no-email@example.com,,Unknown City,Plain 24oz Classic Glass Bottles - 6 Pack,Grocery,125.0,109.0
+12065053,3724,23,1708.0,1999-03-04,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+9000422,2442,1,1976.0,1995-07-25,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+100490,27201,28,1999.0,1999-04-02,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+872101,7764,41,1538.0,1910-08-24,Unknown,no-email@example.com,,Unknown City,Women's Joggers,Apparel,187.0,499.0
+5965990,11950,5,1175.0,2021-11-27,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+1840293,11462,41,1800.0,2022-01-02,Unknown,no-email@example.com,,Unknown City,Women's Joggers,Apparel,187.0,499.0
+312737,1468,1,2000.0,2020-07-03,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+20241088,3900,18,943.0,1958-06-16,Unknown,no-email@example.com,,Unknown City,Chocolate chip donut mix,Home,25.0,199.0
+20241088,3900,18,943.0,1958-06-16,Unknown,no-email@example.com,,Unknown City,Mongolian Beef,Home,180.0,250.0
+110652,3644,39,1468.0,1985-05-22,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+408749,1257,35,796.0,1997-07-26,Unknown,no-email@example.com,,Unknown City,Stagecoach Boot,Apparel,10.0,640.0
+2629719,9902,15,2000.0,1970-01-16,Unknown,no-email@example.com,,Unknown City,Cross Stitch,Home,119.0,200.0
+226615,4518,6,784.0,1987-08-08,Unknown,no-email@example.com,,Unknown City,Marbled mulled bacon,Home,117.0,108.0
+226615,4518,6,784.0,1987-08-08,Unknown,no-email@example.com,,Unknown City,Samsung 38.6-inch 4K QLED Q70A QLED TV,Electronics,15.0,499.0
+226615,4518,6,784.0,1987-08-08,Unknown,no-email@example.com,,Unknown City,Nike Air Jordan Mens 12 Black/White-Varsity Red-Metallic Silver-Varsity Red-Metallic Silver-White 872003-001-Size 9 US Men's Running Shoes,Apparel,45.0,139.0
+226615,4518,6,784.0,1987-08-08,Unknown,no-email@example.com,,Unknown City,Full Hanger 1000mm,Electronics,16.0,799.0
+13712181,2383,4,1444.0,2023-04-11,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+7585692,1639,28,1796.0,1954-07-26,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+1804927,3946,2,2000.0,1956-07-19,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+150001,1221,27,1300.0,2023-04-12,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+581658,1679,45,1981.0,2022-07-27,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+1865001,1831,33,1959.0,1998-02-27,Unknown,no-email@example.com,,Unknown City,,,117.0,299.0
+53441449,2519,21,887.0,1989-06-03,Unknown,no-email@example.com,,Unknown City,Bella Cucina Round Deep Dish Pizza Pan,Home,116.0,815.0
+53441449,2519,21,887.0,1989-06-03,Unknown,no-email@example.com,,Unknown City,LONDON 925 GOLD 300 SILVER DIVING HELMET,Grocery,160.0,257.0
