@@ -11,7 +11,7 @@ The approach includes **building a model for assessing integration quality, depl
 ## **Phase 2: Model Development & Evaluation**
 This phase involved designing, training, and evaluating a model to improve data integration quality.
 
-### ** Model Development**
+###  Model Development
 - **Feature Engineering**: Extracted relevant attributes for **error detection and conflict resolution**.  
 - **Data Cleaning**: Handled missing values, standardized formats, and removed duplicates.  
 - **Conflict Resolution**: Applied rule-based and ML-based techniques to resolve discrepancies.  
